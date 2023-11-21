@@ -1,0 +1,7 @@
+.task-completed {
+    background-color: #d4edda; 
+}
+
+.task-incomplete {
+    background-color: #f8d7da;
+}
